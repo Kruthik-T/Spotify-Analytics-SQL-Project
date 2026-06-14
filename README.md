@@ -323,7 +323,7 @@ Through this project, I gained practical experience in:
 # Repository Structure
 
 ```text
-Spotify-YouTube-Data-Analysis-SQL-Server
+Spotify-Data-Analysis-SQL-Server
 │
 ├── SQL_p3.sql
 ├── README.md
